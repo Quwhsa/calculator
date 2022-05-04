@@ -7,7 +7,8 @@ setuptools.setup (
   description='oss-dev my calculator',
   author='김태형'
   author_email='kth990923@gmail.com',
-  url='https://github.com/Quwhsa/calculator/',
+  url="https://github.com/Quwhsa/calculator/",
+  download_url = "https://github.com/Quwhsa/calculator/archive/refs/tags/v1.0.0.zip",
   install_requires=['pytest'],
   long_description='oss-dev my calc',
   long_description_content_type='text/markdown',
